@@ -1,0 +1,25 @@
+body {
+  background-image: url(../../assets/img/material1.png);
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding-bottom: 60px;
+  font-family: 'Roboto', sans-serif;
+}
+
+html {
+  scroll-padding-top: 70px;
+  scroll-behavior: smooth;
+}
+
+.titluri{
+  color: white;
+  margin-top: 60px;
+  margin-bottom: 40px;
+
+}
+
+.intro {
+  padding-top: 50px;
+  text-align: center;
+}

@@ -1,0 +1,65 @@
+div.jumbotron.carousel-hero {
+  text-align: center;
+  background-size: cover;
+  background-position: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+  margin-bottom: 0;
+}
+
+div.jumbotron.hero-poo {
+  background-image: url('../../assets/img/java.jpg');
+}
+
+div.jumbotron.hero-so {
+  background-image: url('../../assets/img/linux.png');
+}
+
+div.jumbotron.hero-rc {
+  background-image: url('../../assets/img/cisco.jpg');
+}
+
+div.jumbotron.hero-bd {
+  background-image: url('../../assets/img/sql.png');
+}
+
+div.jumbotron.hero-sda {
+  background-image: url('../../assets/img/python.jpg');
+}
+
+div.jumbotron.hero-gac {
+  background-image: url('../../assets/img/autocad.jpg');
+}
+
+h1.hero-title{
+  text-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  font-weight: bolder;
+  color: white;
+}
+
+p.hero-subtitle {
+  max-width: 600px;
+  margin: 25px auto;
+  padding: 10px 15px;
+  color: white;
+  font-size: 19px;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 0 #048f83!important;
+}
+
+.btn-primary:hover {
+  color: #fff;
+  background-color: #016090;
+  border-color: #016090;
+}
+
+.btn.btn-primary {
+  background-color: #048f83!important;
+  border-color: #048f83!important;
+}
+
+.btn-primary.focus, .btn-primary:focus {
+  box-shadow: 0 0 0 .2rem rgba(0,123,255,.5);
+}
